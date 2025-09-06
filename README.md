@@ -35,7 +35,8 @@
    - Disable password authentication (`PasswordAuthentication no`)
    - Enforce key-based authentication only
    - Disable root login (`PermitRootLogin no`)
-   - Allow port 22 only over VPN interface
+   - Allow only over VPN interface
+   - Close Port 22
 2. VPN
    - Install WireGuard (UDP port)
    - Restrict SSH access to VPN connections only
