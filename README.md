@@ -2,7 +2,7 @@
 
 ## Link
 
-- Home: https://shinseong.duckdns.org/
+- Home: -
 
 ## Server Overview
 
